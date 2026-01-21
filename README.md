@@ -1,12 +1,23 @@
-# React + Vite
+# AI-Powered Website Builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+A React.js web application that generates complete responsive websites from text prompts using the Gemini API. This tool significantly reduces manual coding effort and produces layouts for mobile, tablet, and desktop automatically.
 
-Currently, two official plugins are available:
+## Features
+- Generate responsive websites from simple text prompts.
+- Over 10 reusable UI components (Navbar, Hero, Features, CTA, Footer).
+- Multiple animation styles for enhanced visuals.
+- Optimized page load speed (<2 seconds on average devices).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- Frontend: React.js, Tailwind CSS
+- API: Gemini API
+- Tools: VS Code, Git & GitHub
 
-## Expanding the ESLint configuration
+## Live Demo
+https://ai-website-builder-new.vercel.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Highlights
+- Practiced advanced React concepts and component reuse.
+- Implemented responsive design and UI/UX principles.
+- Optimized performance and visuals for fast loading.
